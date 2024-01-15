@@ -15,7 +15,7 @@ console.log(realTime)
 const age = 50
 
 // let statement = 'my name is ' + firstName + ' and my surname is'+ lastName + ' and i live in' + town
-let statement = `My name is ${firstName} and my surame is ${lastName} and i live in ${town}. I was borm in ${new Date() .getFullYear()-age}`
+let statement = `My name is ${firstName} and my surame is ${lastName} and I live in ${town}. I was borm in ${new Date() .getFullYear()-age}`
 
 console.log(statement)
 
